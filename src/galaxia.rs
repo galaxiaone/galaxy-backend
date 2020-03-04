@@ -2,6 +2,7 @@ use web3::contract::{Options, Contract};
 use web3::futures::Future;
 use web3::types::{U256, Address};
 use std::env;
+use dotenv::dotenv;
 use super::models::{GalaxyData, GalaxiaContract, ERC721, Metadata, Asset};
 
 impl GalaxiaContract<web3::transports::Http> {
@@ -42,6 +43,7 @@ impl GalaxiaContract<web3::transports::Http> {
 }
 
 pub fn connect_contract() -> GalaxiaContract<web3::transports::Http> {
+  dotenv().ok();
   let ropsten: &str = &env::var("INFURA").expect("Infura node url not set");
   let (_eloop, transport) = web3::transports::Http::new(ropsten).unwrap();
   _eloop.into_remote();
