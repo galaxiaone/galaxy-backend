@@ -1,0 +1,277 @@
+{ erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 0, uri: "QmQ8RrnVwkwwvNoRMEcR49EKtQAni1wzc8suZZZBZApjBo"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("megacorp")
+      }, Attributes { display_type: None, trait_type: "species", value: String("human")
+      }, Attributes { display_type: None, trait_type: "Militarism", value: Number(3)
+      }, Attributes { display_type: None, trait_type: "Isolationism", value: Number(1)
+      }, Attributes { display_type: None, trait_type: "Fanaticism", value: Number(4)
+      }, Attributes { display_type: None, trait_type: "Technology", value: Number(3)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "production_bonus", value: Number(27)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "research_bonus", value: Number(14)
+      }
+    ], background_color: "000000", description: "Founded 302 years ago by Robert Stadler. AYN is noted for its captivating agitprop and fanatical galactic following.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmZyg1K14AWJBXnM3NtbSwuRyDexoAMnTsET5qDwivFe28", name: "AYN Industries"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 1, uri: "QmTsNfLMK2pYbh171XpYCfA2kGHAQAoFW9zBTg2kmK9P9s"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("megacorp")
+      }, Attributes { display_type: None, trait_type: "species", value: String("human")
+      }, Attributes { display_type: None, trait_type: "Militarism", value: Number(3)
+      }, Attributes { display_type: None, trait_type: "Isolationism", value: Number(1)
+      }, Attributes { display_type: None, trait_type: "Fanaticism", value: Number(1)
+      }, Attributes { display_type: None, trait_type: "Technology", value: Number(5)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "production_bonus", value: Number(30)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "research_bonus", value: Number(15)
+      }
+    ], background_color: "000000", description: "Well known for manufacturing the AKR-556 orbital explorer spacecraft.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmRK9MiaiPYFvZc2ha4mRX5qRS62dgvGtU8tQHJjFkuZAA", name: "Akira Corporation"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 2, uri: "QmbYkBXxq2mz81QW3TJZMAmcmbXrjfTcX6hdaVSmL9ZV1s"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("megacorp")
+      }, Attributes { display_type: None, trait_type: "species", value: String("human")
+      }, Attributes { display_type: None, trait_type: "Militarism", value: Number(2)
+      }, Attributes { display_type: None, trait_type: "Isolationism", value: Number(2)
+      }, Attributes { display_type: None, trait_type: "Fanaticism", value: Number(2)
+      }, Attributes { display_type: None, trait_type: "Technology", value: Number(6)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "production_bonus", value: Number(5)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "research_bonus", value: Number(55)
+      }
+    ], background_color: "000000", description: "Founded 185 years ago by Andron Yang. At the time, its main business was asteroid mining, now it\'s a technological powerhouse.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmbKowEeQgdyeZonP9fwjsYsgyCsWvvHfhkw4gMcR6LK7K", name: "Andron Conglomerate"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 3, uri: "QmPwNhP7CbmA5tiuPb8G8iL4VBgZN6oHj4r3Lz55zsQPdR"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("megacorp")
+      }, Attributes { display_type: None, trait_type: "species", value: String("cyborg")
+      }, Attributes { display_type: None, trait_type: "Militarism", value: Number(7)
+      }, Attributes { display_type: None, trait_type: "Isolationism", value: Number(1)
+      }, Attributes { display_type: None, trait_type: "Fanaticism", value: Number(1)
+      }, Attributes { display_type: None, trait_type: "Technology", value: Number(5)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "production_bonus", value: Number(20)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "research_bonus", value: Number(10)
+      }
+    ], background_color: "000000", description: "The militant Antini Corporation famed for its advanced cybernetic weapon implants.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmcEwXXHUysy8ywh9mTNzGsqeqMXGep4xsLk7Ky4QHX4An", name: "Antini Corporation"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 4, uri: "QmPuc23n86xsrAvH3J4vtPEzMeKmdpGE9XSpE6NrEoD2h5"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("megacorp")
+      }, Attributes { display_type: None, trait_type: "species", value: String("human")
+      }, Attributes { display_type: None, trait_type: "Militarism", value: Number(1)
+      }, Attributes { display_type: None, trait_type: "Isolationism", value: Number(2)
+      }, Attributes { display_type: None, trait_type: "Fanaticism", value: Number(1)
+      }, Attributes { display_type: None, trait_type: "Technology", value: Number(4)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "production_bonus", value: Number(13)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "research_bonus", value: Number(15)
+      }
+    ], background_color: "000000", description: "Founded in 2087 and continues to produce military grade quantum computer components to this day.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmXfE8XmUSEmuBya24mSEaFnSw121aUUYeb1hepPgNCfVC", name: "Astral Enterprise"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 5, uri: "QmbMSKUMQiRMvoNrFJDy3FhaWNTsE9mq8FkGWjNKFAkqxU"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("megacorp")
+      }, Attributes { display_type: None, trait_type: "species", value: String("human")
+      }, Attributes { display_type: None, trait_type: "Militarism", value: Number(1)
+      }, Attributes { display_type: None, trait_type: "Isolationism", value: Number(3)
+      }, Attributes { display_type: None, trait_type: "Fanaticism", value: Number(1)
+      }, Attributes { display_type: None, trait_type: "Technology", value: Number(4)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "production_bonus", value: Number(12)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "research_bonus", value: Number(25)
+      }
+    ], background_color: "000000", description: "Today it offers life extension gene therapy to the hyper rich.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmaVBU6DpsstCf4bY3cbGbyDAv4ABvAwGE98FP1DLQwNQL", name: "Daitoppa Genetics"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 6, uri: "QmWFxVxosSShKcoqbnHy4hkwoiUL9a2C2ovXTM1vXoCGzD"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("megacorp")
+      }, Attributes { display_type: None, trait_type: "species", value: String("human")
+      }, Attributes { display_type: None, trait_type: "Militarism", value: Number(5)
+      }, Attributes { display_type: None, trait_type: "Isolationism", value: Number(1)
+      }, Attributes { display_type: None, trait_type: "Fanaticism", value: Number(2)
+      }, Attributes { display_type: None, trait_type: "Technology", value: Number(6)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "production_bonus", value: Number(5)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "research_bonus", value: Number(35)
+      }
+    ], background_color: "000000", description: "This opportunistic inner system corp is noted for its advanced terraforming abilities and distant human colonization missions.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmSGbdS6AYihMuNYSECHvAoWLwfkxbTvCkJjgzUuYgTSpq", name: "Distar Corporation"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 7, uri: "QmPnytzuyfzizkWtfdjs69JR7VwwpMy9iizAf7SRk2s6cF"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("megacorp")
+      }, Attributes { display_type: None, trait_type: "species", value: String("human")
+      }, Attributes { display_type: None, trait_type: "Militarism", value: Number(2)
+      }, Attributes { display_type: None, trait_type: "Isolationism", value: Number(1)
+      }, Attributes { display_type: None, trait_type: "Fanaticism", value: Number(1)
+      }, Attributes { display_type: None, trait_type: "Technology", value: Number(4)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "production_bonus", value: Number(14)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "research_bonus", value: Number(35)
+      }
+    ], background_color: "000000", description: "This relatively new solar-system-spanning corp is known for its advanced farming and bio engineering.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/Qmc57hCxCuTRKaaAXcMVHPLCuRfrWVFED2ijjTdJwqmTxp", name: "Fi-Re System"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 8, uri: "QmVBp2bjZxLU88RZR7HX9RG3DVu8fzYK9nJy4Laxp5VCBZ"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("megacorp")
+      }, Attributes { display_type: None, trait_type: "species", value: String("human")
+      }, Attributes { display_type: None, trait_type: "Militarism", value: Number(2)
+      }, Attributes { display_type: None, trait_type: "Isolationism", value: Number(4)
+      }, Attributes { display_type: None, trait_type: "Fanaticism", value: Number(2)
+      }, Attributes { display_type: None, trait_type: "Technology", value: Number(3)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "production_bonus", value: Number(45)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "research_bonus", value: Number(13)
+      }
+    ], background_color: "000000", description: "Jama Systems started out in vehicle manufacturing before moving into autonomous nanomanufacturing.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmUd7boAHedFR5NMHQCn8ePuDEN98DbpcyFwb3cxyR6FSR", name: "Jama Systems"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 9, uri: "QmUZKMyciys2GzWueQgoGqdyHiVFskgYPik9r1jcAR9tdw"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("megacorp")
+      }, Attributes { display_type: None, trait_type: "species", value: String("android")
+      }, Attributes { display_type: None, trait_type: "Militarism", value: Number(3)
+      }, Attributes { display_type: None, trait_type: "Isolationism", value: Number(3)
+      }, Attributes { display_type: None, trait_type: "Fanaticism", value: Number(1)
+      }, Attributes { display_type: None, trait_type: "Technology", value: Number(7)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "production_bonus", value: Number(14)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "research_bonus", value: Number(57)
+      }
+    ], background_color: "000000", description: "The first corporation to successfully implant human consciousness into a synthetic human being.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmUrYAEqP86HF5tkXvGne4si5D6skFeZH2LJFVvitJx88t", name: "Kyusa Technologies"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 10, uri: "QmQpgyaxHNiJA6av9Lm6A26Po1SCZ8CuvtqyhUkTk2QUET"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("megacorp")
+      }, Attributes { display_type: None, trait_type: "species", value: String("android")
+      }, Attributes { display_type: None, trait_type: "Militarism", value: Number(1)
+      }, Attributes { display_type: None, trait_type: "Isolationism", value: Number(6)
+      }, Attributes { display_type: None, trait_type: "Fanaticism", value: Number(1)
+      }, Attributes { display_type: None, trait_type: "Technology", value: Number(5)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "production_bonus", value: Number(55)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "research_bonus", value: Number(10)
+      }
+    ], background_color: "000000", description: " The original company founders were destroyed by their own synthetic life forms, leaving behind only androids and conspiracy theories.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmTRHHRPzn4bwm3bPUEg9KZEhA4UoxMtbrqrWJtYnPYiXV", name: "Lotus Robotics"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 11, uri: "QmdwT3a92SvzSnuyKkeA8wKRh89VU1VHnEX66Drp2MfnQU"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("megacorp")
+      }, Attributes { display_type: None, trait_type: "species", value: String("human")
+      }, Attributes { display_type: None, trait_type: "Militarism", value: Number(2)
+      }, Attributes { display_type: None, trait_type: "Isolationism", value: Number(1)
+      }, Attributes { display_type: None, trait_type: "Fanaticism", value: Number(6)
+      }, Attributes { display_type: None, trait_type: "Technology", value: Number(2)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "production_bonus", value: Number(45)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "research_bonus", value: Number(15)
+      }
+    ], background_color: "000000", description: " The socialist Miugai developments has seen exponential growth over the past 200 years, creating \'sustainable utopias\' accross the galaxy.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmYXaQV4bNXwq1JQbC9Dddg7QQwD3smkA9v5bu6KY54nr6", name: "Miugai Developments"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 12, uri: "QmaZ4hWvfqVS6dc9DZg5htmSvnz2vBpKD4BsmVG5tut1sU"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("megacorp")
+      }, Attributes { display_type: None, trait_type: "species", value: String("lost_humanity")
+      }, Attributes { display_type: None, trait_type: "Militarism", value: Number(4)
+      }, Attributes { display_type: None, trait_type: "Isolationism", value: Number(4)
+      }, Attributes { display_type: None, trait_type: "Fanaticism", value: Number(1)
+      }, Attributes { display_type: None, trait_type: "Technology", value: Number(1)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "production_bonus", value: Number(24)
+      }, Attributes { display_type: Some("boost_percentage"), trait_type: "research_bonus", value: Number(5)
+      }
+    ], background_color: "000000", description: "A lost human colony expedition launched in 2454. Now a militaristic tribal society with minimal technological ability.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmcVYXmhN62KSeDuGqviQWZCSLDMSAKTotZ9G9n3WbccBp", name: "Mova Colony"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 13, uri: "QmNjgQ2YeyLz4LsNSsyuzUuDheNiKawMQpptXYbwd1mN1X"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("planet")
+      }, Attributes { display_type: None, trait_type: "size", value: String("medium")
+      }, Attributes { display_type: None, trait_type: "type", value: String("terrestrial")
+      }, Attributes { display_type: None, trait_type: "habitability", value: String("habitable")
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_production", value: Number(100)
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_research", value: Number(100)
+      }, Attributes { display_type: Some("number"), trait_type: "generation", value: Number(1)
+      }
+    ], background_color: "000000", description: "Earth is a waterworld, with two-thirds of the planet covered by ocean.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmTEvr6Ra7BVRNKzxnk3Xzh4M2teBG5MkbhW1FPn1frutL", name: "Earth"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 14, uri: "Qmc87tAxddRWb5o6TK7LJNQkKXTFSrQUkrAcksrupSU2P6"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("planet")
+      }, Attributes { display_type: None, trait_type: "size", value: String("gigantic")
+      }, Attributes { display_type: None, trait_type: "type", value: String("gas giant")
+      }, Attributes { display_type: None, trait_type: "habitability", value: String("uninhabitable")
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_production", value: Number(60)
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_research", value: Number(10)
+      }, Attributes { display_type: Some("number"), trait_type: "generation", value: Number(1)
+      }
+    ], background_color: "000000", description: "Jupiter\'s Great Red Spot is a gigantic storm that’s about twice the size of Earth and has raged for over a century.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmccQRhMfLCyQySYmYoYnkaT3b62LDdzsiX6G5tWaQi2tB", name: "Jupiter"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 15, uri: "QmPpPJcswfp3X2gu6HYmvwW1aP6vzJd9oYU3XZJ2dhxYyc"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("planet")
+      }, Attributes { display_type: None, trait_type: "size", value: String("medium")
+      }, Attributes { display_type: None, trait_type: "type", value: String("terrestrial")
+      }, Attributes { display_type: None, trait_type: "habitability", value: String("habitable")
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_production", value: Number(75)
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_research", value: Number(30)
+      }, Attributes { display_type: Some("number"), trait_type: "generation", value: Number(1)
+      }
+    ], background_color: "000000", description: "Mars is known as the Red Planet because iron minerals in the Martian soil oxidize, or rust, causing the soil and atmosphere to look red.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmdD1Wc5fbR2ZU2npN4MMdtJ8djZi1hAbscpsmiPqV2238", name: "Mars"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 16, uri: "QmRQFh9tzVnRDiZYq2gjzSDwGKC2aqQbQF5MeYhcHREYjN"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("planet")
+      }, Attributes { display_type: None, trait_type: "size", value: String("small")
+      }, Attributes { display_type: None, trait_type: "type", value: String("terrestrial")
+      }, Attributes { display_type: None, trait_type: "habitability", value: String("uninhabitable")
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_production", value: Number(40)
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_research", value: Number(10)
+      }, Attributes { display_type: Some("number"), trait_type: "generation", value: Number(1)
+      }
+    ], background_color: "000000", description: "Mercury is the closest planet to the sun with surface temperature reaching a scorching 840 degrees Fahrenheit.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmZBx2q651NebHd3rhf5pyEEMxVsBZPmJHCMtSD43SFPvo", name: "Mercury"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 17, uri: "QmaTE7zsPmvY6zQVoHjrgUbUBgG61AqJbvcgCPEZfe1zto"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("planet")
+      }, Attributes { display_type: None, trait_type: "size", value: String("tiny")
+      }, Attributes { display_type: None, trait_type: "type", value: String("moon")
+      }, Attributes { display_type: None, trait_type: "habitability", value: String("habitable")
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_production", value: Number(25)
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_research", value: Number(20)
+      }, Attributes { display_type: Some("number"), trait_type: "generation", value: Number(1)
+      }
+    ], background_color: "000000", description: "A cold, dry orb whose surface is studded with craters and strewn with rocks containing rare elements and isotopes.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmbWoP7YfLrfZz2Bdvp2D8JueHmtodCVcBwK61mmABYwev", name: "Moon"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 18, uri: "QmeiSeyNV5kZxnrUCubwBMgUUWiVyFAxc6SdGw4A92H4xH"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("planet")
+      }, Attributes { display_type: None, trait_type: "size", value: String("large")
+      }, Attributes { display_type: None, trait_type: "type", value: String("gas giant")
+      }, Attributes { display_type: None, trait_type: "habitability", value: String("uninhabitable")
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_production", value: Number(40)
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_research", value: Number(10)
+      }, Attributes { display_type: Some("number"), trait_type: "generation", value: Number(1)
+      }
+    ], background_color: "000000", description: "Neptune\'s atmosphere contains icy clouds and the fastest winds recorded in the solar system.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmUZsFMKAW5aUFLnGMxE7yVPvqNVDvkyRM5rkrQUSoKDE1", name: "Neptune"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 19, uri: "QmfTGKzF4ZjommqM2hrkqmQHe2ChrgS3Xs2cru3qNpVgtC"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("planet")
+      }, Attributes { display_type: None, trait_type: "size", value: String("tiny")
+      }, Attributes { display_type: None, trait_type: "type", value: String("dwarf planet")
+      }, Attributes { display_type: None, trait_type: "habitability", value: String("uninhabitable")
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_production", value: Number(22)
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_research", value: Number(5)
+      }, Attributes { display_type: Some("number"), trait_type: "generation", value: Number(1)
+      }
+    ], background_color: "000000", description: "Pluto is a dwarf planet that lies in the Kuiper Belt, an area full of icy bodies and other dwarf planets out past Neptune.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmUPiYgVvV9ZWjHVAkcszGYJxyRtnDMdchBP61aYeHJdtw", name: "Pluto"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 20, uri: "QmfPEkphzDGTuNKADHaT95qEB7qP3QdS3U6q1oy5kogp1g"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("planet")
+      }, Attributes { display_type: None, trait_type: "size", value: String("gigantic")
+      }, Attributes { display_type: None, trait_type: "type", value: String("gas giant")
+      }, Attributes { display_type: None, trait_type: "habitability", value: String("uninhabitable")
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_production", value: Number(40)
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_research", value: Number(10)
+      }, Attributes { display_type: Some("number"), trait_type: "generation", value: Number(1)
+      }
+    ], background_color: "000000", description: "Saturn cannot support life as we know it, but some of Saturn\'s moons have conditions that do support life.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/Qmag2FE5cCx6c4gXryrfjACMEQNQw4tskbpcm4qsz4N2WR", name: "Saturn"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 21, uri: "QmYxb2FrZH9m3mNCBpJBJJSTzbNbkCzEBoyaHpLF8WRYjR"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "size", value: String("epic")
+      }, Attributes { display_type: None, trait_type: "type", value: String("star")
+      }, Attributes { display_type: None, trait_type: "habitability", value: String("uninhabitable")
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_production", value: Number(80)
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_research", value: Number(20)
+      }, Attributes { display_type: Some("number"), trait_type: "generation", value: Number(1)
+      }
+    ], background_color: "000000", description: "Without the Sun\'s intense energy there would be no life in the solar system.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmcPepCRuqa31dctKfZXW6hD6wJGmfvmkuHYVYMweqGFjf", name: "Sun"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 22, uri: "QmPeMnw6XAPm4ChamFmwsMjsTi6bw98UuhQG1koohTigZ5"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("planet")
+      }, Attributes { display_type: None, trait_type: "size", value: String("large")
+      }, Attributes { display_type: None, trait_type: "type", value: String("gas giant")
+      }, Attributes { display_type: None, trait_type: "habitability", value: String("uninhabitable")
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_production", value: Number(40)
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_research", value: Number(10)
+      }, Attributes { display_type: Some("number"), trait_type: "generation", value: Number(1)
+      }
+    ], background_color: "000000", description: "Uranus has 13 known rings. The inner rings are narrow and dark and the outer rings are brightly colored.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmVu6a4FaULSbkka2FrRmvdrJWspGmwV8DKMNyqFBWBiHA", name: "Uranus"
+  }
+}, Asset { erc_data: ERC721 { owner: 0x50f06a6fe481eeafcf19c8adbbd9f2f7d312dcd8, id: 23, uri: "QmVTqPA3HAmCFJRiEw2scwKmCpXKBXQW2sXh8MZZjNw2ht"
+  }, metadata: Metadata { attributes: [Attributes { display_type: None, trait_type: "category", value: String("planet")
+      }, Attributes { display_type: None, trait_type: "size", value: String("medium")
+      }, Attributes { display_type: None, trait_type: "type", value: String("terrestrial")
+      }, Attributes { display_type: None, trait_type: "habitability", value: String("uninhabitable")
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_production", value: Number(40)
+      }, Attributes { display_type: Some("boost_number"), trait_type: "base_research", value: Number(10)
+      }, Attributes { display_type: Some("number"), trait_type: "generation", value: Number(1)
+      }
+    ], background_color: "000000", description: "Venus\' solid surface is a volcanic landscape covered with extensive plains featuring high volcanic mountains.", external_url: "https://galaxia.one/", image: "https://ipfs.io/ipfs/QmU13ygAtehLfHt4fBGjJEUqeRhxhPkbtJBQnvDQdM8maE", name: "Venus"
+  }
+}
